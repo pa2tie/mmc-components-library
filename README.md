@@ -1,1 +1,1 @@
-# mmc-components-library
+# Mercury Mail Creator components library
